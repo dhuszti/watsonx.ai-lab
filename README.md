@@ -187,5 +187,17 @@ Egy újabb kérdés arról szól: „sokak szerint a járványok korában óriá
 Download watsonxai_RAG_simple.py from GitHub
 Run it with following command: ```python watsonxai_RAG_simple.py```
 
+Ask these questions: 
+Mi a Citibank utódja?
+Mi a Citibank Europe plc székhelye?
+Citibank Europe plc magyarországi címe?
+Mi történik a Citibanknál felvett hitelemmel?
+Mi a törlesztőrészlet?
+
+
+### Run your first interactive python app
+Download
+
+
 
 
