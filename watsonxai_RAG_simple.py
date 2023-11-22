@@ -22,10 +22,10 @@ parameters = {
 
 credentials = {
     "url": "https://us-south.ml.cloud.ibm.com",
-    "apikey": "_to_be_substituted_"
+    "apikey": "_to_be_replaced_"
 }
 
-project_id = "18265bd9-4b55-4658-8c6b-2d785f2f9d16"
+project_id = "_to_be_replaced_"
 
 
 model = Model(
