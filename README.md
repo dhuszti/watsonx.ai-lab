@@ -31,16 +31,10 @@ Examples (output):
 ```
 másrészről Név: Nagy Mária
 Születési családi és utónév: Nagy Mária
-Születési hely, év, hó, nap: Veszprém, 1971.01.01.
+Születési hely: Veszprém
+Születési időpont: 1971.01.01.
 Anyja születési neve: Nagy Ilona
-Lakóhely: 1021 Budapest, Labanc ú. 1.
-Állampolgársága: Magyar
-Személyi azonosító száma: 005286RA
-Személyazonosító okmány típusa: Magyar
-Személyazonosító okmány száma: 005286RA
-Lakcímkártya száma: ASDBRA1234
-Levelezési cím: 1021 Budapest, Labanc u. 1.
-mint Zálogkötelezett,
+Lakcím: 1021 Budapest, Labanc utca 1.
 ```
 
 Test your prompt (input):
@@ -85,11 +79,11 @@ mint Haszonélvező,
 között az alulírott napon és helyen az alábbi feltételekkel jött létre. Ahol a jelen szerződés Zálogkötelezettről ír, eltérő rendelkezés hiányában ott a szerződést aláíró valamennyi zálogkötelezettet kell érteni. 1 Ahol a jelen szerződés Haszonélvezőről ír, eltérő rendelkezés hiányában ott a szerződést aláíró valamennyi haszonélvezőt kell érteni.
 ```
 
-Change token lenght to 100.
-Use model: LLAMA2-CHAT-70b
-Stop sequence: két enter
+* Change token lenght to 100.
 
+* Use model: LLAMA2-CHAT-70b
 
+* Stop sequence: két enter
 
 
 ### Second prompt lab
@@ -184,7 +178,7 @@ Egy újabb kérdés arról szól: „sokak szerint a járványok korában óriá
 ```
 
 ### Run first python script
-Download watsonxai_RAG_simple.py from GitHub
+Download watsonxai_RAG_simple.py from GitHub. Please copy the API_key and project_id from the Box link (found at watsonx.ai slides).
 
 Run it with following command: 
 ```
@@ -201,7 +195,7 @@ Ask these questions (one by one):
 ```
 
 ### Run your first interactive python app
-Download watsonxai_RAG_firstapp.py from GitHub
+Download watsonxai_RAG_firstapp.py from GitHub. Please copy the API_key and project_id from the Box link (found at watsonx.ai slides).
 
 Run it from command line:
 ```
