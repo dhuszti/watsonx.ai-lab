@@ -79,6 +79,8 @@ mint Haszonélvező,
 között az alulírott napon és helyen az alábbi feltételekkel jött létre. Ahol a jelen szerződés Zálogkötelezettről ír, eltérő rendelkezés hiányában ott a szerződést aláíró valamennyi zálogkötelezettet kell érteni. 1 Ahol a jelen szerződés Haszonélvezőről ír, eltérő rendelkezés hiányában ott a szerződést aláíró valamennyi haszonélvezőt kell érteni.
 ```
 
+Use these parameters on the right pane of the screen:
+
 * Change token lenght to 100.
 
 * Use model: LLAMA2-CHAT-70b
