@@ -1,0 +1,17 @@
+Register to watsonx.ai
+https://eu-de.dataplatform.cloud.ibm.com/registration/stepone?context=wx&preselect_region=true
+
+Install Python 3.11 on your notebook (any other dev environment like Visual Studio or PyCharm)
+
+Upgrade pip to this version:
+Pip 3.23.1
+pip install --upgrade pip
+
+Install below python packages:
+pip install langchain
+pip install wget
+pip install sentence-transformers
+pip install chromadb==0.3.29
+pip install "ibm-watson-machine-learning>=1.0.327"
+pip install "pydantic==1.10.0"
+pip install streamlit
